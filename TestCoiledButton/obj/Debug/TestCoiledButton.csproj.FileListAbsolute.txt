@@ -1,0 +1,16 @@
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\bin\Debug\TestCoiledButton.exe.config
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\bin\Debug\TestCoiledButton.exe
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\bin\Debug\TestCoiledButton.pdb
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\bin\Debug\DllCoiledButton.dll
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\bin\Debug\DllCoiledButton.pdb
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\MainWindow.g.cs
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\App.g.cs
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton_MarkupCompile.cache
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton_MarkupCompile.lref
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\MainWindow.baml
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton.g.resources
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton.Properties.Resources.resources
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton.csproj.GenerateResource.Cache
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton.exe
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\TestCoiledButton\obj\Debug\TestCoiledButton.pdb

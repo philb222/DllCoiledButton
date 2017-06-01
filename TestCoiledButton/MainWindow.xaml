@@ -1,0 +1,29 @@
+﻿<Window x:Class="TestCoiledButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:cb="clr-namespace:DllCoiledButton;assembly=DllCoiledButton"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestCoiledButton"
+        mc:Ignorable="d"
+        Title="Test Coiled Button" Height="800" Width="1000"
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <StackPanel HorizontalAlignment="Left" Margin="100 200 0 0">
+        <StackPanel Orientation="Horizontal">
+            <cb:CoiledButton />
+            <cb:CoiledButton CB_Background="AntiqueWhite" CB_Text="White Back"/>
+            <cb:CoiledButton CB_Height="22" CB_Text="Height 22" />
+            <cb:CoiledButton CB_BorderThickness="6" CB_Text="BorderThickness 6" CB_Height="36" CB_Width="140"/>
+            <cb:CoiledButton CB_CoilColor="Red" CB_Text="Red Coil" Margin="40 0 0 0" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <cb:CoiledButton x:Name="QuitButton" 
+                                 CB_CoilColor="Yellow" CB_Foreground="Yellow" CB_Background="#002200" CB_Text="Yellow Coil"/>
+            <cb:CoiledButton  CB_Foreground="Red" CB_Text="Red Foreground" CB_Width="120" />
+            <cb:CoiledButton  CB_Text="Margin 00" CB_CoilColor="Blue" Margin="20 0 0 0" CB_BorderThickness="1"/>
+            <cb:CoiledButton  CB_Background="Orange" CB_Text="This will exit" CB_Height="52" CB_Width="210"
+                         CB_Click="CoiledButton_CB_Click" />
+            <cb:CoiledButton CB_Text="Height 100" CB_Width="190" CB_Height="100" CB_BorderThickness="0" />
+        </StackPanel>
+    </StackPanel>
+</Window>

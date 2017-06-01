@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="DllCoiledButton.CoiledButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:local="clr-namespace:DllCoiledButton"
+             MinHeight="10" MinWidth="10">
+    <UserControl.Resources>
+        <ResourceDictionary Source="Dictionary1.xaml"/>
+    </UserControl.Resources>
+    <Canvas x:Name="CoiledButtonCanvas" Height="32" Width="100" >
+        <Path x:Name="pathCoil" SnapsToDevicePixels="False" UseLayoutRounding="False"
+                      Stroke="Black" StrokeLineJoin="Round" StrokeThickness="2">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <!--<SkewTransform AngleX="0" AngleY="0"/>-->
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Data >
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigureCollection>
+                            <!-- StartPoint is the origin point at the middle bottom -->
+                            <PathFigure x:Name="PathStart" IsClosed="False" StartPoint="50, 16">
+                                <PathFigure.Segments>
+                                    <BezierSegment x:Name="btnBezier1" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                    <BezierSegment x:Name="btnBezier2" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                    <BezierSegment x:Name="btnBezier3" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                    <BezierSegment x:Name="btnBezier4" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                    <BezierSegment x:Name="btnBezier5" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                    <BezierSegment x:Name="btnBezier6" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                    <BezierSegment x:Name="btnBezier7" Point1="50 16" Point2="50 16" Point3="50 16" />
+                                </PathFigure.Segments>
+                            </PathFigure>
+                        </PathFigureCollection>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <Button x:Name="btnCoiled" Click="btnCoiled_Click" Style="{StaticResource NormalButton}"
+                Opacity="1.0" >
+            <Label x:Name="labCoiled" Content="CB__Text not set" />
+            <Button.RenderTransform>
+                <RotateTransform x:Name="btnRotate" Angle="0"/>
+            </Button.RenderTransform>
+        </Button>
+    </Canvas>
+</UserControl>

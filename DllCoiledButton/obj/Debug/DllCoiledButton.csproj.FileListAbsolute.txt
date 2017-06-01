@@ -1,0 +1,13 @@
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\bin\Debug\DllCoiledButton.dll
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\bin\Debug\DllCoiledButton.pdb
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\UserControl1.g.cs
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton_MarkupCompile.cache
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton_MarkupCompile.lref
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\UserControl1.baml
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton.g.resources
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton.Properties.Resources.resources
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton.csproj.GenerateResource.Cache
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton.dll
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton.pdb
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\Dictionary1.baml
+C:\Users\Phillip\Documents\Visual Studio 2015\Projects\WPF\DllCoiledButton\DllCoiledButton\obj\Debug\DllCoiledButton.csprojResolveAssemblyReference.cache
